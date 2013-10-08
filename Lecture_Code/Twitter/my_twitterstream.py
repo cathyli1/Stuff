@@ -9,10 +9,10 @@ import urllib2 as urllib
 
 ###########################################################################
 ## Fill these in using the README instructions
-access_token_key = "zzz999"
-access_token_secret = "zzz999"
-consumer_key = "zzz999"
-consumer_secret = "zzz999"
+access_token_key = "1256820031-RYQzdPr8Bitud63TPMzDNdV15evrRnCCgyZ7MX4"
+access_token_secret = "u2NRRdeEBtqf2cSCwEH56MH69CsuJTZynrU8uGMWI"
+consumer_key = "NqrFLPDYFkZxQlVTNEYg"
+consumer_secret = "t4XZggUnQPj5GMzCqC1XqlKtI8cKLufEEALlovxEsM"
 ###########################################################################
 
 _debug = 0
